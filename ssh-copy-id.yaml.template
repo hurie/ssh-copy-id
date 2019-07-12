@@ -1,0 +1,8 @@
+id_pub: '~/.ssh/id_rsa.pub'
+
+credential:
+  username: username
+  password: password
+
+addresses:
+  - ipaddress/hostname
